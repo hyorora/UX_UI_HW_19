@@ -67,6 +67,9 @@ button:hover {
 
 
 }
+.button {
+    position: absolute;
+  }
 
 #project1 {
 
@@ -104,3 +107,12 @@ button:hover {
   .item1 {
     justify-content: space-evenly;
   }
+
+  .open {
+      background-color: black;
+      color:blanchedalmond;
+      font-size: small;
+  }
+
+  
+  
